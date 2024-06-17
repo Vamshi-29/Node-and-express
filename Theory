@@ -9,3 +9,7 @@ in js have lot of various factors and dependencies and libraries like (fs - file
 In order to manage all those you need to have npm installed in your system 
 more importantly it should be there in your current wroking folder ..
 npm has lots of folder like express etcc 
+To install any library locally 
+npm install library_name(express,array etc..)
+The webiste for all npm packages are npmjs.com/packages 
+ 
