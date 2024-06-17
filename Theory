@@ -12,4 +12,10 @@ npm has lots of folder like express etcc
 To install any library locally 
 npm install library_name(express,array etc..)
 The webiste for all npm packages are npmjs.com/packages 
+
+What ever the application or logic you write/code is just within your system 
+To showcase it to world You need to create a HTTP server (so that everyone can use it )
+You can create HTTP server in any language (Node js along with express framework is a way to do that !!)
+
+
  
