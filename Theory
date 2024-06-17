@@ -1,0 +1,11 @@
+Node is an environment to run JS in your system 
+With node you can work on backend 
+With node you can create HTTP server(Responsible for estabilishing connection b/w front end and backend)
+Bun is a competetior for node (Outperformed node many times)
+The code is written in c/c++ language which converts your js code and interprets/compiles 
+
+npm (node paackage manager)
+in js have lot of various factors and dependencies and libraries like (fs - filesystem , setTimeout etc .... express )
+In order to manage all those you need to have npm installed in your system 
+more importantly it should be there in your current wroking folder ..
+npm has lots of folder like express etcc 
